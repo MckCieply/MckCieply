@@ -8,3 +8,5 @@
 - 👯 I’m looking to collaborate on something exciting in my tech stack
 
 - ⚡ Fun fact: Someday I wanted to become a developer and I tried to create GitHub account for myself.... turns out I alredy thought that and dit it! ...2 years earlier...
+
+- Also I'm looking for a job opportunities in the field, I want to put all this skill into something meaningfull!
