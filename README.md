@@ -13,4 +13,4 @@
 - 🔭 Right now I'm working on [claude-recap](https://github.com/MckCieply/claude-recap) and [Investing-Partner](https://github.com/MckCieply/Investing-Partner)
 - 🔒 Something big is brewing in private too — stay tuned
 
-- ⚡ Fun fact: I once decided to become a developer and went to create a GitHub account… turns out I had already done it, two years earlier
+- ⚡ Fun fact: I once decided to become a developer and went to create a GitHub account in 2022… turns out I had already done it in 2019 - three years earlier!
